@@ -1,0 +1,5 @@
+com.acme.module2.Module2#uncovered()V
+false
+09edde66b4a2859c41cba9fd04d7ed27
+==
+println java.io.PrintStream#println(Ljava/lang/String;)V

@@ -1,0 +1,6 @@
+projectKey=org.sonarqube:sonarscanner-maven-aggregate
+serverUrl=http://localhost:9251/sonarqube
+serverVersion=2025.1.0.102418
+dashboardUrl=http://localhost:9251/sonarqube/dashboard?id=org.sonarqube%3Asonarscanner-maven-aggregate
+ceTaskId=35fe633a-ca4d-4523-916b-87b3b9a9e5e0
+ceTaskUrl=http://localhost:9251/sonarqube/api/ce/task?id=35fe633a-ca4d-4523-916b-87b3b9a9e5e0

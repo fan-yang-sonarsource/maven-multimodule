@@ -1,0 +1,91 @@
+
+1.0*org.sonarqube:sonarscanner-maven-aggregateJavaFrontend"1739460217960*java2.B…
+8
+3module2/src/main/java/com/acme/module2/Module2.java2
+
+package4
+
+com.acme.module25
+
+com.acme.module2.Module27
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+Module212
+
+
+uses13
+3
+-com.acme.module2.Module2#coveredByUnitTest()V15
+
+method16
+
+coveredByUnitTest17
+:
+4com.acme.module2.Module2#coveredByIntegrationTest()V19
+
+coveredByIntegrationTest20
++
+%com.acme.module2.Module2#uncovered()V22
+
+	uncovered23J
+
+1
+12Z
+
+3	
+354jÅ
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+14:
+141516 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+17
+@
+21:
+212216 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+23
+@
+18:
+181916 *
+1	 	(	26:3B
+	
+9
+10
+
+
+11
+20r
+
+6613*
+1 (

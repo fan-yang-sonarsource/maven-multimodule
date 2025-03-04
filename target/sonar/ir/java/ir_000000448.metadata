@@ -1,0 +1,5 @@
+com.acme.module2.Module2#coveredByIntegrationTest()V
+false
+6b681e9bf6a29f79dfc611c7fd5d2b9a
+==
+println java.io.PrintStream#println(Ljava/lang/String;)V

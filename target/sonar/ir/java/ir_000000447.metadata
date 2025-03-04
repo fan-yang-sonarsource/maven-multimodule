@@ -1,0 +1,5 @@
+com.acme.module2.Module2#coveredByUnitTest()V
+false
+806083c705deb9c71eda851a61edc630
+==
+println java.io.PrintStream#println(Ljava/lang/String;)V
